@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Usuarios>
+  <Usuario nickName = "Jose">
+    <correo>jose@correo.com</correo>
+    <telefono>84561265</telefono>
+    <ultimaSesion>25/08/2014</ultimaSesion>    
+  </Usuario>
+
+</Usuarios>
